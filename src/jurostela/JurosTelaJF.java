@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author CGC
+ * @author Fernando Portella
  */
 public class JurosTelaJF extends javax.swing.JFrame {
 
